@@ -105,6 +105,11 @@ export default Counter
 ```
 
 
+#### Here is the output
+
+![Logo](https://i.ibb.co/KKpxmHV/Screenshot-20230202-092241.png)
+
+
 
 
 
